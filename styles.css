@@ -11,3 +11,8 @@
 
     border: solid black 1px;
 }
+
+.mole {
+    background-image: url('mole.jpg');
+    background-size: cover;
+}
